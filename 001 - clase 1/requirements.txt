@@ -1,0 +1,10 @@
+# Encuentro 1 — Entorno profesional de desarrollo
+# Python, Datos e Ingeniería de IA Aplicada — UTN Rosario · FRRO
+#
+# Instalar con:
+#   uv pip install -r requirements.txt
+#
+# Todos los notebooks de este encuentro usan únicamente la biblioteca
+# estándar de Python. La única dependencia externa es JupyterLab.
+
+jupyterlab>=4.0
