@@ -13,7 +13,7 @@ Curso profesional de 33 horas orientado al desarrollo de soluciones con Python e
 |---|---|---|---|
 | `001 - clase 1` | Encuentro 1 | Entorno profesional de desarrollo | ✓ Disponible |
 | `002 - clase 2` | Encuentro 2 | Python aplicado para automatización y desarrollo | ✓ Disponible |
-| `003 - clase 3` | Encuentro 3 | Reproducibilidad, Docker y pair programming con IA | En preparación |
+| `003 - clase 3` | Encuentro 3 | Reproducibilidad, Docker y pair programming con IA | ✓ Disponible |
 | `004 - clase 4` | Encuentro 4 | Backend con FastAPI y Vibe Engineering | En preparación |
 | `005 - clase 5` | Encuentro 5 | Análisis de datos con Python | En preparación |
 | `006 - clase 6` | Encuentro 6 | Procesamiento de lenguaje natural y modelos de lenguaje | En preparación |
