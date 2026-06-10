@@ -6,3 +6,14 @@
 .AppleDouble
 .LSOverride
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
